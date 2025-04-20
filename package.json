@@ -1,0 +1,17 @@
+{
+  "name": "supland-backend",
+  "license": "UNLICENSED",
+  "author": "Roman Antipov @romancavry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
